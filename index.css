@@ -1,7 +1,9 @@
 body {
-  background-color: rgb(27, 27, 27);
+  font-weight: 100;
+  background-color: black;
   font-family: Calibri;
-  font-size: 2rem;
+  font-size: 18px;
+  color: #bbb;
 }
 
 h1 {
