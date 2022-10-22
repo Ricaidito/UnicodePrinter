@@ -12,11 +12,6 @@ h1 {
   text-decoration: underline;
 }
 
-p,
-label {
-  color: white;
-}
-
 #input-box {
   width: 25%;
 }
